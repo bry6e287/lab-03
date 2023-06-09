@@ -9,7 +9,7 @@ $ echo "# lab-03" >> README.md
 $ git init
 $ git add README.md
 $ git commit -m "fork"
-$ git remote add origin https://github.com/ledibonibell/lab-03.git
+$ git remote add origin https://github.com/bry6e287/lab-03.git
 $ git push -u origin master
 ```
 
